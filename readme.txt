@@ -1,3 +1,2 @@
-Git is version amnager soft!
-and yet 
-Git is a free soft!
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
